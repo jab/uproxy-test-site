@@ -1,0 +1,151 @@
+#: /content/pages/about.md
+msgid "About"
+msgstr "sobre"
+
+#: /content/pages/about.md
+msgid "About us"
+msgstr "sobre nosotros"
+
+#: /content/pages/archive.md /views/archive.html:4
+msgid "Archive"
+msgstr "archivo"
+
+#: /views/posts.html:23
+msgid "Back:"
+msgstr "espalda;"
+
+#: /content/pages/team.md
+msgid "CEO"
+msgstr "CEO"
+
+#: /content/pages/team.md
+msgid "CTO"
+msgstr "CTO"
+
+#: /content/pages/team.md
+msgid "Caelius Ruh"
+msgstr "Celio Ruh"
+
+#: /content/pages/team.md
+msgid "Creative Director"
+msgstr "director creativo"
+
+#: /content/pages/team.md
+msgid "Creative Producer"
+msgstr "producto creativo"
+
+#: /content/posts/20140101.md
+msgid "Diam a ac sed suscipit netus."
+msgstr "Pero a medida que el diámetro toma dictumst."
+
+#: /content/pages/team.md
+msgid "Diro colore exemploque quaeque non Quo classis amatis terga texitur."
+msgstr ""
+"Te gusta el color de la parte posterior de la flota, que se teje el ejemplo, "
+"de nuestras posesiones debe Diro."
+
+#: /content/posts/20140204.md
+msgid "Dolor aliquam elit. Facilisi placeat quis sit ipsum vestibulum."
+msgstr ""
+"Algunos medicamentos para el dolor. Facilisi ha de agradar el que es el mismo"
+" porche."
+
+#: /content/pages/index.md
+msgid "Home"
+msgstr "casa"
+
+#: /content/posts/20130725.md
+msgid "Incubuitque petiti divus retinacula aetherias et quoque"
+msgstr ""
+"Y ella se acostó sobre las peticiones del llorado para el arrastre del cielo "
+"y también es"
+
+#: /content/pages/team.md
+msgid "Johnny Toma"
+msgstr "johnny Toma"
+
+#: /views/index.html:12
+msgid "Latest updates"
+msgstr "últimas actualizaciones"
+
+#: /content/pages/team.md
+msgid "Matthias Freddie"
+msgstr "Matthias, Freddie"
+
+#: /content/pages/team.md
+msgid ""
+"Mei quam habebis latratibus fero Odrysius, et sidera animantis pavens corde "
+"vires pascua."
+msgstr ""
+"El tracio que tiene en los perros ladrando, yo a mi pueblo, y yo tenía miedo,"
+" y su corazón, la fuerza de las estrellas de un animal en el pasto."
+
+#: /content/pages/team.md
+msgid "Nahor Jaylen"
+msgstr "Nacor Jaylen"
+
+#: /views/posts.html:17
+msgid "Next:"
+msgstr "Siguiente:"
+
+#: /views/posts.html:7
+#, python-format
+msgid "Posted %(date)s"
+msgstr "Publicado %(date)s"
+
+#: /content/pages/team.md
+msgid "Riku Ambroos"
+msgstr "Riku Ambroos"
+
+#: /content/pages/team.md
+msgid "Semesarumque rata, esse illi resoluto fronte, in, contigit positi."
+msgstr ""
+"Semesarumque las ratificaciones, que se le relajado, el frente de la, en el, "
+"sucedió que lo que se proponen."
+
+#: /content/pages/team.md
+msgid "Tandemque obscurum capit est ultro caesique manuque sensurum."
+msgstr "Finalmente oscura que se necesita para sentir y tocar realmente sus captores."
+
+#: /content/pages/team.md
+msgid "Team"
+msgstr "equipo"
+
+#: /content/pages/team.md
+msgid "Technical Lead"
+msgstr "Technical Lead"
+
+#: /podspec.yaml
+msgid "Test uProxy Homepage"
+msgstr "uProxy prueba casera"
+
+#: /content/pages/team.md
+msgid "The Team"
+msgstr "el Equipo"
+
+#: /podspec.yaml
+msgid ""
+"The codelab pod for the Grow SDK. Used in conjunction with the codelab at "
+"http://growsdk.org."
+msgstr ""
+"La vaina codelab para el SDK de crecer. Utilizado conjuntamente con el "
+"laboratorio de programación en http://growsdk.org."
+
+#: /content/pages/team.md
+msgid "Utinam adimuntque obscenas perpetuo, aquaticus pereunt simul inde."
+msgstr ""
+"Si sólo se adimuntque los órganos sexuales a perpetuidad, Pomeranus se "
+"pierden al mismo tiempo, de ese lugar."
+
+#: /views/index.html:23
+msgid "View the archive"
+msgstr "Ver los archivos"
+
+#: /content/pages/index.md
+msgid "Welcome to Test uProxy Homepage"
+msgstr "Bienvenido a Test uProxy Página de inicio"
+
+#: /content/posts/20130927.md
+msgid "Wisi nec lacus velit adipiscing lectus."
+msgstr "Wisi lacus ncp velita adipiscing lectus."
+
